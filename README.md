@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/ArtisanConnect-Backend.git
+   git clone https://github.com/Umoru98/ArtisanConnect-Backend.git
    cd ArtisanConnect-Backend
    ```
 2. **Install Dependencies**
